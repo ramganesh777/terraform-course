@@ -15,15 +15,15 @@ variable "INSTANCE_DEVICE_NAME" {
 }
 
 variable "JENKINS_VERSION" {
-  default = "2.204.5"
+  default = "2.289.1"
 }
 
 variable "TERRAFORM_VERSION" {
-  default = "0.12.23"
+  default = "v0.15.5"
 }
 
 variable "APP_INSTANCE_COUNT" {
-  default = "0"
+  default = "1"
 }
 
 variable "DUMMY_SSH_PUB_KEY" {
