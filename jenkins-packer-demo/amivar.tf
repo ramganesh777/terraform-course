@@ -1,4 +1,4 @@
 variable "APP_INSTANCE_AMI" {
-  default = ""
+  default = "packer-nodejs-demo"
 }
 
